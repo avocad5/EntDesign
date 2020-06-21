@@ -10,10 +10,6 @@ body{
 .logo img{
   width: 350px;
 }
-.sub{
-  text-align: center;
-  font-size: 20px;
-}
 
 .design{
   display: flex;
